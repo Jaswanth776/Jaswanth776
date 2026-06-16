@@ -343,5 +343,5 @@ Stack:       [Cisco Packet Tracer, VLAN Trunking, OSPF, ACLs, Inter-VLAN Routing
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Jaswanth-00D2FF?style=flat-square&labelColor=0B192C" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Jaswanth-00D2FF?style=flat-square&labelColor=0B192C"  alt="Made with love" />
 </p>
