@@ -36,9 +36,9 @@
   <img src="https://img.shields.io/badge/Focus-Blue%20Team-0052CC?style=flat-square&labelColor=0B192C" alt="Focus" />
 </p>
 
-<!-- ── MATRIX DIVIDER ──────────────────────────────────────────── -->
+<!-- ── CYBER DIVIDER ──────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff3d3562b1481f86e9ff4301ab45e/.images/footer.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer"/>
 </p>
 
 <!-- ── TERMINAL: WHOAMI ────────────────────────────────────────── -->
@@ -47,7 +47,7 @@
     └─$ whoami
 
     > Cybersecurity Student at Vignan's University
-    > R&D Practitioner — Security Monitoring & Network Defense
+    > Cybersecurity R&D Student — Security Monitoring & Network Defense
     > SOC Analyst Aspirant
     > Networking & Linux Enthusiast
     > Hands-on Lab Builder
@@ -324,10 +324,7 @@ Stack:       [Cisco Packet Tracer, VLAN Trunking, OSPF, ACLs, Inter-VLAN Routing
   </a>
 </p>
 
-<!-- ── FOOTER ──────────────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B192C&height=150&section=footer&animation=fadeIn&theme=dark" width="100%" />
-</p>
+
 
 <!-- ── CLOSING ─────────────────────────────────────────────────── -->
 ```text
@@ -344,4 +341,9 @@ Stack:       [Cisco Packet Tracer, VLAN Trunking, OSPF, ACLs, Inter-VLAN Routing
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Jaswanth-00D2FF?style=flat-square&labelColor=0B192C"  alt="Made with love" />
+</p>
+
+<!-- ── CYBER FOOTER ───────────────────────────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00D9FF&height=150&section=footer"/>
 </p>
