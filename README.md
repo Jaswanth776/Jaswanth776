@@ -1,349 +1,164 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║  CYBER LAB TERMINAL — GITHUB PROFILE v2.0                    ║ -->
-<!-- ║  Owner: Jaswanth Chaluvadi                                    ║ -->
-<!-- ║  Status: OPERATIONAL                                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════ -->
-
-<!-- ── BANNER ──────────────────────────────────────────────────── -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B192C&height=280&section=header&text=JASWANTH%20CHALUVADI&fontSize=45&animation=fadeIn&fontColor=00D2FF&theme=dark" alt="Banner" />
-</p>
-
-<!-- ── TYPING ANIMATION ────────────────────────────────────────── -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&height=50&lines=Cybersecurity+Student;R%26D+Practitioner;SOC+Analyst+Aspirant;Networking+%26+Linux+Enthusiast;Blue+Team+Defender;Always+Learning" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ── BADGE ROW ───────────────────────────────────────────────── -->
-<p align="center">
-  <a href="https://tryhackme.com/p/chaluvadijaswanth" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-chaluvadijaswanth-212529?style=for-the-badge&logo=tryhackme&logoColor=cc0000&labelColor=0B192C" alt="TryHackMe" />
-  </a>
-  <a href="https://github.com/Jaswanth776" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@Jaswanth776-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B192C" alt="GitHub" />
-  </a>
-  <a href="https://jaswanth776.github.io/jaswanth-cyber-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B192C" alt="Portfolio" />
-  </a>
-</p>
-
-<!-- ── STATUS INDICATORS ───────────────────────────────────────── -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaswanth776&label=TELEMETRY+LOGS&color=00D2FF&style=flat-square" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Status-LEARNING%20%7C%20BUILDING-00D2FF?style=flat-square&labelColor=0B192C" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team-0052CC?style=flat-square&labelColor=0B192C" alt="Focus" />
-</p>
-
-<!-- ── CYBER DIVIDER ──────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer"/>
-</p>
-
-<!-- ── TERMINAL: WHOAMI ────────────────────────────────────────── -->
-```text
-    ┌──(jaswanth㉿cyber-lab)-[~/profile]
-    └─$ whoami
-
-    > Cybersecurity Student at Vignan's University
-    > Cybersecurity R&D Student — Security Monitoring & Network Defense
-    > SOC Analyst Aspirant
-    > Networking & Linux Enthusiast
-    > Hands-on Lab Builder
-```
-
-<!-- ── MISSION STATEMENT ───────────────────────────────────────── -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PHILOSOPHY-0B192C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCI+PHJlY3Qgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjMDBCMTkyQyIvPjwvc3ZnPg==&logoColor=00D2FF" height="0" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=130&text=Chaluvadi%20Jaswanth&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=45&desc=Cybersecurity%20%7C%20SOC%20%7C%20Network%20Security&descColor=00F79F&descSize=16&descAlignY=72"/>
 </p>
 
 <p align="center">
-  <em><strong>"Learn the network. Understand the system. Defend the infrastructure."</strong></em>
-</p>
-
-I break things in labs so I can defend them in the real world. I build simulated networks, deploy monitoring stacks, and study how attacks look from the defender's side. Everything here is hands-on — no theoretical-only work.
-
-<!-- ── ASCII DIVIDER ───────────────────────────────────────────── -->
-```
-═══════════════════════════════════════════════════════════════════
-   SKILL MATRIX // TOOLS IN MY LAB
-═══════════════════════════════════════════════════════════════════
-```
-
-<!-- ── NETWORKING ──────────────────────────────────────────────── -->
-**`[NETWORK LAYER]`**
-
-<img src="https://img.shields.io/badge/TCP%2FIP-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/VLANs%20%26%20Trunking-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/OSPF-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/DHCP-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Subnetting-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Routing%20%26%20Switching-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Inter--VLAN_Routing-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/ACLs-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" />
-
-<!-- ── SECURITY TOOLS ──────────────────────────────────────────── -->
-**`[SECURITY STACK]`**
-
-<img src="https://img.shields.io/badge/Wazuh-00D2FF?style=flat-square&logo=wazuh&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Suricata-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Sysmon-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/SIEM-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/FIM-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Alert%20Analysis-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Splunk-00D2FF?style=flat-square&logo=splunk&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/TheHive-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" />
-
-<!-- ── FORENSICS ───────────────────────────────────────────────── -->
-**`[FORENSICS]`**
-
-<img src="https://img.shields.io/badge/Packet%20Analysis-00D2FF?style=flat-square&logo=wireshark&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Wireshark-00D2FF?style=flat-square&logo=wireshark&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Browser%20Forensics-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Artifact%20Extraction-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" />
-
-<!-- ── TOOLS ───────────────────────────────────────────────────── -->
-**`[TOOLS]`**
-
-<img src="https://img.shields.io/badge/Wireshark-00D2FF?style=flat-square&logo=wireshark&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Nmap-00D2FF?style=flat-square&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Grafana-00D2FF?style=flat-square&logo=grafana&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-00D2FF?style=flat-square&logo=cisco&logoColor=white&labelColor=0B192C" />
-
-<!-- ── PLATFORMS ───────────────────────────────────────────────── -->
-**`[PLATFORMS]`**
-
-<img src="https://img.shields.io/badge/Kali%20Linux-00D2FF?style=flat-square&logo=kali-linux&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Ubuntu-00D2FF?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Debian-00D2FF?style=flat-square&logo=debian&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Docker-00D2FF?style=flat-square&logo=docker&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/PostgreSQL-00D2FF?style=flat-square&logo=postgresql&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Redis-00D2FF?style=flat-square&logo=redis&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Nextcloud-00D2FF?style=flat-square&logo=nextcloud&logoColor=white&labelColor=0B192C" />
-
-<!-- ── PROGRAMMING ─────────────────────────────────────────────── -->
-**`[AUTOMATION]`**
-
-<img src="https://img.shields.io/badge/Python-00D2FF?style=flat-square&logo=python&logoColor=white&labelColor=0B192C" /> <img src="https://img.shields.io/badge/Bash-00D2FF?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0B192C" />
-
-<!-- ── ASCII DIVIDER ───────────────────────────────────────────── -->
-```
-═══════════════════════════════════════════════════════════════════
-   LAB INVENTORY // PROJECTS
-═══════════════════════════════════════════════════════════════════
-```
-
-<!-- ── TERMINAL: LS PROJECTS ───────────────────────────────────── -->
-```text
-    ┌──(jaswanth㉿cyber-lab)-[~/projects]
-    └─$ ls -la
-
-    drwxr-xr-x  SOC-LAB/
-    drwxr-xr-x  Intelligent-Secure-NAS/
-    drwxr-xr-x  Browser-Forensics-Tool/
-    drwxr-xr-x  SDN-Traffic-Monitoring/
-    drwxr-xr-x  Enterprise-Network-Segmentation/
-```
-
-<!-- ── PROJECT 1 ───────────────────────────────────────────────── -->
-### 🔷 `SOC-LAB` — SOC Monitoring Lab using Wazuh
-
-```yaml
-Type:        Security Operations Center Lab
-Status:      OPERATIONAL
-Purpose:     Learn how SIEM collects, processes, and alerts on security events
-What_I_Did:
-  - Deployed Wazuh SIEM manager with agents on Ubuntu Server and Windows 10
-  - Integrated Suricata IDS for network-level threat detection
-  - Enabled Sysmon on Windows endpoints for deep telemetry collection
-  - Configured File Integrity Monitoring (FIM) to track critical system changes
-  - Simulated SSH brute-force and reverse shell attacks to generate real alerts
-  - Studied how Wazuh correlates host and network data into actionable alerts
-What_I_Learned:
-  - How SIEM ingestion pipelines work end-to-end
-  - The difference between host-based and network-based detection
-  - How to tune alert rules and reduce false positives
-  - Practical incident triage from real generated telemetry
-Stack:       [Wazuh, Suricata, Sysmon, Ubuntu Server, Windows 10, Kali Linux]
-```
-
-<!-- ── PROJECT 2 ───────────────────────────────────────────────── -->
-### 🔷 `Intelligent-Secure-NAS` — Secure NAS Environment
-
-```yaml
-Type:        Containerized Secure Storage Lab
-Status:      OPERATIONAL
-Purpose:     Build a self-hosted, monitored, hardened storage system
-What_I_Did:
-  - Deployed Nextcloud as a self-hosted file storage platform using Docker Compose
-  - Segregated services into isolated containers (PostgreSQL, Redis, Nextcloud)
-  - Set up Prometheus + Grafana for service monitoring and dashboards
-  - Built Python scripts to monitor access patterns and detect anomalies
-  - Implemented fail2ban for brute-force protection
-What_I_Learned:
-  - Docker networking and service isolation
-  - How to monitor infrastructure health with Prometheus/Grafana
-  - Log analysis for detecting suspicious access patterns
-  - Securing self-hosted services against common attacks
-Stack:       [Nextcloud, Docker Compose, PostgreSQL, Redis, Prometheus, Grafana, Python]
-```
-
-<!-- ── PROJECT 3 ───────────────────────────────────────────────── -->
-### 🔷 `Browser-Forensics-Tool` — Browser Artifact Extractor
-
-```yaml
-Type:        Digital Forensics Tool
-Status:      IN DEVELOPMENT
-Purpose:     Automate extraction and timeline reconstruction of browser artifacts
-What_I_Did:
-  - Built a Python framework to parse browser SQLite databases
-  - Extracts history, downloads, cookies, cache metadata, and form data
-  - Generates chronological timeline of user activity
-  - Correlates artifacts to identify potential indicators of compromise
-What_I_Learned:
-  - Browser internals and where forensic artifacts live
-  - SQLite database parsing and reconstruction
-  - How attackers leave traces in browser data
-  - Timeline analysis methodology for DFIR
-Stack:       [Python 3, SQLite, Bash, Cross-platform OS Support]
-```
-
-<!-- ── PROJECT 4 ───────────────────────────────────────────────── -->
-### 🔷 `SDN-Traffic-Monitoring` — SDN Traffic Monitoring System
-
-```yaml
-Type:        Software-Defined Network Lab
-Status:      OPERATIONAL
-Purpose:     Understand programmable networks and real-time flow monitoring
-What_I_Did:
-  - Built an SDN testbed using Mininet with OpenFlow switches
-  - Deployed OpenDaylight controller for centralized network management
-  - Programmatically queried flow statistics via REST APIs
-  - Exported metrics to InfluxDB and built Grafana dashboards
-  - Simulated traffic patterns to observe dynamic routing behavior
-What_I_Learned:
-  - How SDN separates control plane from data plane
-  - OpenFlow protocol and flow table management
-  - Network programmability concepts
-  - Real-time network visualization techniques
-Stack:       [Mininet, OpenDaylight, OpenFlow, Python, InfluxDB, Grafana]
-```
-
-<!-- ── PROJECT 5 ───────────────────────────────────────────────── -->
-### 🔷 `Enterprise-Network-Segmentation` — Network Segmentation Lab
-
-```yaml
-Type:        Enterprise Network Design Lab
-Status:      OPERATIONAL
-Purpose:     Learn multi-zone network isolation and access control
-What_I_Did:
-  - Designed a multi-department enterprise topology in Cisco Packet Tracer
-  - Implemented VLANs with 802.1Q trunking between switches
-  - Configured OSPF for dynamic inter-VLAN routing
-  - Deployed extended ACLs on router interfaces for traffic filtering
-  - Verified segmentation with packet tracer and connectivity tests
-What_I_Learned:
-  - How VLANs physically and logically segment networks
-  - Dynamic routing protocols and their behavior
-  - ACL rule design and packet filtering logic
-  - Enterprise network architecture principles
-Stack:       [Cisco Packet Tracer, VLAN Trunking, OSPF, ACLs, Inter-VLAN Routing]
-```
-
-<!-- ── ASCII DIVIDER ───────────────────────────────────────────── -->
-```
-═══════════════════════════════════════════════════════════════════
-   THREAT INTELLIGENCE // GITHUB METRICS
-═══════════════════════════════════════════════════════════════════
-```
-
-<!-- ── GITHUB STATS ROW 1 ──────────────────────────────────────── -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth776&show_icons=true&theme=dark&hide_border=true&bg_color=0B192C&title_color=00D2FF&icon_color=00D2FF&text_color=c9d1d9&border_radius=6" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Jaswanth776&theme=dark&hide_border=true&background=0B192C&stroke=00D2FF&ring=00D2FF&fire=00D2FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="Streak Stats" />
-</p>
-
-<!-- ── GITHUB STATS ROW 2 ──────────────────────────────────────── -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth776&layout=compact&theme=dark&hide_border=true&bg_color=0B192C&title_color=00D2FF&text_color=c9d1d9&border_radius=6" width="49%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaswanth776&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" width="49%" alt="Trophies" />
-</p>
-
-<!-- ── ACTIVITY GRAPH ──────────────────────────────────────────── -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth776&bg_color=0B192C&color=00D2FF&line=00D2FF&point=0052CC&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Activity Graph" />
-</p>
-
-<!-- ── SNAKE ANIMATION ─────────────────────────────────────────── -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaswanth776/Jaswanth776/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaswanth776/Jaswanth776/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Jaswanth776/Jaswanth776/output/github-snake-dark.svg" alt="Contribution Snake" />
-  </picture>
-</p>
-
-<!-- ── ASCII DIVIDER ───────────────────────────────────────────── -->
-```
-═══════════════════════════════════════════════════════════════════
-   ACTIVE LEARNING PATH // CERTIFICATIONS & TRAINING
-═══════════════════════════════════════════════════════════════════
-```
-
-<!-- ── TERMINAL: CAT ROADMAP ───────────────────────────────────── -->
-```text
-    ┌──(jaswanth㉿cyber-lab)-[~/learning]
-    └─$ cat roadmap.txt
-
-    [COMPLETED]
-    ├── Blue Team Junior Analyst (BTJA) — Security Blue Team
-    ├── Intro to PowerShell for Blue Teamers — TCM Security
-    └── Defensive Security Labs — TryHackMe (Active)
-
-    [IN PROGRESS]
-    ├── SOC Analyst training & SIEM rule development
-    ├── Detection engineering with Sigma rules
-    ├── Advanced network traffic analysis
-    └── Linux system auditing & hardening
-
-    [NEXT]
-    ├── CompTIA Security+
-    ├── Blue Team Level 1 (BTL1)
-    └── eJPT (eLearnSecurity)
-```
-
-<!-- ── CURRENT FOCUS ───────────────────────────────────────────── -->
-**`[ACTIVE ENGAGEMENTS]`**
-
-| Track | Focus Area | Status |
-|-------|-----------|--------|
-| Security Operations | Enterprise log aggregation & SIEM tuning | 🟡 In Progress |
-| Detection Logic | Windows/Linux telemetry alert structuring | 🟡 In Progress |
-| Incident Analysis | Host-based evidence & network artifact analysis | 🟡 In Progress |
-| Infrastructure | Network segmentation & perimeter defense | 🟢 Active |
-| System Auditing | Linux hardening & automation scripts | 🟢 Active |
-
-<!-- ── ASCII DIVIDER ───────────────────────────────────────────── -->
-```
-═══════════════════════════════════════════════════════════════════
-   NETWORK MAP // CONNECT
-═══════════════════════════════════════════════════════════════════
-```
-
-<p align="center">
-  <a href="https://tryhackme.com/p/chaluvadijaswanth" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212529?style=for-the-badge&logo=tryhackme&logoColor=cc0000&labelColor=0B192C" alt="TryHackMe" />
-  </a>
-  <a href="https://github.com/Jaswanth776" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B192C" alt="GitHub" />
-  </a>
-  <a href="https://jaswanth776.github.io/jaswanth-cyber-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0B192C" alt="Portfolio" />
-  </a>
-</p>
-
-<!-- ── TRYHACKME BADGE ─────────────────────────────────────────── -->
-<p align="center">
-  <a href="https://tryhackme.com/p/chaluvadijaswanth" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/chaluvadijaswanth.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
-
-
-<!-- ── CLOSING ─────────────────────────────────────────────────── -->
-```text
-    ┌──(jaswanth㉿cyber-lab)-[~/profile]
-    └─$ echo "Thanks for visiting my lab."
-
-    > "Security begins with understanding how systems communicate."
-    > Keep learning. Keep building. Keep defending.
-```
-
-<p align="center">
-  <em><strong>Built with curiosity, caffeine, and a lot of broken VMs.</strong></em>
+  <img src="https://img.shields.io/badge/SOC%20Analyst-2E9E8F?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Network%20Security-4A90A4?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Threat%20Detection-3B82A0?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Incident%20Response-1A7A6E?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Lab%20Engineering-6366F1?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/B.Tech%20Cybersecurity%20%40%20VFSTR-1e2d3d?style=flat-square&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/CGPA%208.44-1e2d3d?style=flat-square&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Jaswanth-00D2FF?style=flat-square&labelColor=0B192C"  alt="Made with love" />
+  <a href="mailto:chaluvadijaswanth2117@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jaswanth-chaluvadi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://leetcode.com/u/JaswanthChaluvadi/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
+  <a href="https://tryhackme.com/p/chaluvadijaswanth"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Jaswanth776"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<!-- ── CYBER FOOTER ───────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00D9FF&height=150&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Jaswanth776&label=Profile+Views&color=00F79F&style=flat"/>
 </p>
+
+---
+
+<h2 align="center"> Languages, Tools and Technologies</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,c,js,bash&theme=dark&perline=4"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Version Control</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=4"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Editors</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark&perline=4"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Frameworks & Libraries</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/Scapy-306998?style=flat-square&logo=python&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,elasticsearch&theme=dark&perline=4"/>
+    </td>
+    <td align="center" valign="top">
+      <b>OS & Systems</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows&theme=dark&perline=4"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>SIEM & Monitoring</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/Wazuh-4B0082?style=flat-square&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>IDS / IPS & IR</b><br/><br/>
+      <img src="https://img.shields.io/badge/Suricata-CC0000?style=flat-square&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Snort-CC0000?style=flat-square&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Fail2Ban-8B0000?style=flat-square&logo=linux&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/TheHive-F7A800?style=flat-square&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Security & Pentesting</b><br/><br/>
+      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=linux&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat-square&logo=portswigger&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat-square&logo=metasploit&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white" height="44"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>Networking</b><br/><br/>
+      <img src="https://img.shields.io/badge/TCP%2FIP-00897B?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/DNS-00897B?style=flat-square&logo=cloudflare&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/DHCP-00897B?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/SMTP-00897B?style=flat-square&logo=maildotru&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Subnetting-00897B?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+      &nbsp;<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Infrastructure</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white" height="44"/>
+    </td>
+    <td align="center" valign="top">
+      <b>Miscellaneous</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark&perline=4"/>
+      &nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="44"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">COMPETITIVE PROGRAMMING & PLATFORM STATS</h2>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <b>LeetCode</b><br/><br/>
+      <img src="https://leetcard.jacoblin.cool/JaswanthChaluvadi?theme=dark&font=Baloo&ext=heatmap"/>
+    </td>
+    <td align="center" width="50%">
+      <b>TryHackMe</b><br/><br/>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/chaluvadijaswanth.png"/><br/><br/>
+      <img src="https://img.shields.io/badge/SOC%20-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Advent%20of%20Cyber-Completed-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">GITHUB METRICS</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth776&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanth776&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth776&bg_color=1a1b27&hide_border=true&line=00F79F&point=00F79F&area=true&area_color=003322&title_color=ffffff&color=aaaaaa" width="98%"/>
+</p>
+
+---
+
+<h2 align="center">CERTIFICATIONS & ACHIEVEMENTS</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/NPTEL-Elite%20Silver-4CAF50?style=flat-square&logo=coursera&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cisco-Python%20%26%20AI-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/OPSWAT-Critical%20Infrastructure-00897B?style=flat-square&logo=opswat&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Udemy-WiFi%20Pentesting-A435F0?style=flat-square&logo=udemy&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Hackathon-Agentic%20AI%20Runnerup-FFD700?style=flat-square&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FE7A16?style=flat-square&logo=leetcode&logoColor=white"/></td>
+  </tr>
+</table>
+
+---
